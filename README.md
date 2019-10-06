@@ -8,4 +8,5 @@ Added attack method
 Changed all variables in units method to protected
 Changed directions in game engine from YPos to ypos
 Added system.drawing to map class
-Added distance to into the game Engine
+Added distance method to into the game Engine
+added base.maxhealth to constructor
