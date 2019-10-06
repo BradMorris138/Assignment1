@@ -10,3 +10,4 @@ Changed directions in game engine from YPos to ypos
 Added system.drawing to map class
 Added distance method to into the game Engine
 added base.maxhealth to constructor
+added base. to team in constructor
