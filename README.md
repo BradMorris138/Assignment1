@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Assignment1
 These are changes which have been made to assignment 1.
 Added underscore to Game Engine
@@ -18,4 +19,3 @@ Removed GenerateUnits(unitNumbers) from map method
 changed unit in generate method to unitNumbers in game engine
 (Unit Attacker added to conflict) in rangedunit class
 (Units other) added to conflict range
-ok
