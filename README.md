@@ -17,3 +17,4 @@ Added Unit = new List<Units>();
 Removed GenerateUnits(unitNumbers) from map method
 changed unit in generate method to unitNumbers in game engine
 (Unit Attacker added to conflict) in rangedunit class
+(Units other) added to conflict range
