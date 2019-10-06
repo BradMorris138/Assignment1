@@ -14,3 +14,4 @@ added base. to team in constructor
 Added list unit method
 changed tiles to t
 Added Unit = new List<Units>();
+Removed GenerateUnits(unitNumbers) from map method
