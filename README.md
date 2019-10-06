@@ -15,3 +15,4 @@ Added list unit method
 changed tiles to t
 Added Unit = new List<Units>();
 Removed GenerateUnits(unitNumbers) from map method
+changed unit in generate method to unitNumbers
